@@ -30,7 +30,7 @@
   "tickets_booked" : [ ]
 }, {
   "username" : "f",
-  "user_id" : "d6c0516e-5228-47b9-a469-5aedbe7f12b2",grg
+  "user_id" : "d6c0516e-5228-47b9-a469-5aedbe7f12b2",
   "password" : "f",
   "hashed_password" : "$2a$10$Ww//xPCmZ2v4GOk1k64vruhSJ7xr7Gs.A//vRbFqDTRLyQa.pt2Ui",
   "tickets_booked" : [ ]
